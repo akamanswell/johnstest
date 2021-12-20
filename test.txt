@@ -1,0 +1,33 @@
+<Doctype Html>
+<html>
+<head>
+<title>
+This is my title
+</title>
+</head>
+<body>
+
+<h1>Basdeo Panday for president!!</h1>
+
+
+<img src="‪C:\Users\Akins\Desktop\test\panday.jpg" width="500" height="350"><br>
+The is the body
+
+<br>
+<a href="https://www.facebook.com">facebook link</a><br>
+<a href="https://www.hotmail.com">hotmail link</a><br>
+
+<p>
+This is an example of a paragraph. 
+This is an example of a paragraph. 
+This is an example of a paragraph.<br>
+This is an example of a paragraph.
+This is an example of a paragraph.
+This is an example of a paragraph.
+</p>
+
+<img src="‪panday.jpg" width="500" height="350"><br>
+</body>
+</html>
+
+
